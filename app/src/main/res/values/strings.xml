@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chat App</string>
+    <string name="ip">IP-address</string>
+    <string name="portRecept">Recieve port</string>
+    <string name="portSend">Sending port</string>
+    <string name="text">Content</string>
+    <string name="nick">Nickname</string>
+    <string name="history">History</string>
+    <string name="send">Send</string>
+</resources>
